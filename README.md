@@ -137,7 +137,7 @@ int main(void)
 		}
 	}
 }
-
+```
 ### Output screen shots :
 ![Screenshot (243)](https://user-images.githubusercontent.com/93427581/195887088-7000334e-668d-454d-8abe-010a83b46d22.png)
 
